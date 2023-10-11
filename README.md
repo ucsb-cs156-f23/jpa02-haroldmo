@@ -1,4 +1,4 @@
-# STARTER-jpa02
+# jpa02-haroldmo
 
 * TODO: Change the title of this README 
   in the text `# STARTER-jpa02` above
@@ -10,7 +10,7 @@
   a link to your repo, e.g. 
   https://github.com/ucsb-cs156-f23/jpa02-cgaucho
 
-Repo: https://ucsb-cs156-f23/STARTER-jpa02
+Repo: [https://github.com/ucsb-cs156-f23/jpa02-haroldmo](https://github.com/ucsb-cs156-f23/jpa02-haroldmo)
 
 * TODO: Correct the "deployed at" link to app on Heroku or Render below, 
   then delete this TODO.  Replace it with 
@@ -18,7 +18,7 @@ Repo: https://ucsb-cs156-f23/STARTER-jpa02
   https://jpa02-cgaucho.dokku-14.cs.ucsb.edu
 
 
-Deployed at: https://jpa02-replace-me.dokku-xx.cs.ucsb.edu
+Deployed at: [http://jpa02-haroldmo.dokku-01.cs.ucsb.edu](http://jpa02-haroldmo.dokku-01.cs.ucsb.edu)
 
 
 # About this repo
