@@ -10,7 +10,7 @@
   a link to your repo, e.g. 
   https://github.com/ucsb-cs156-f23/jpa02-cgaucho
 
-Repo: https://ucsb-cs156-f23/STARTER-jpa02
+Repo: [https://ucsb-cs156-f23/STARTER-jpa02](https://github.com/ucsb-cs156-f23/jpa02-haroldmo)
 
 * TODO: Correct the "deployed at" link to app on Heroku or Render below, 
   then delete this TODO.  Replace it with 
